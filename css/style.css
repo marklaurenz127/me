@@ -2,8 +2,8 @@
 /********** General CSS ***********/
 /**********************************/
 body {
-    color: #666666;
-    background: gray;
+    color: #3c3c3c !important;
+    background: #3c3c3c !important;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -47,7 +47,7 @@ a:focus {
     width: 100%;
     padding: 15px;
     float: left;
-    background: gray;
+    background: #3c3c3c !important;
 }
 
 .wrapper .sidebar-header,
@@ -112,7 +112,7 @@ a:focus {
         content: "";
         width: 100%;
         height: 30px;
-        background: gray;
+        background: #3c3c3c !important;
         z-index: 1;
     }
     
@@ -132,7 +132,7 @@ a:focus {
         float: left;
         overflow: auto;
         scrollbar-width: thin;
-        scrollbar-color: gray;
+        scrollbar-color: #3c3c3c !important;
         z-index: 2;
     }
 
@@ -350,7 +350,7 @@ a:focus {
 
 .large-btn .content-inner {
     font-size: 0;
-    border-bottom: 30px solid gray;
+    border-bottom: 30px solid #3c3c3c !important;
 }
 
 .large-btn .btn {
@@ -425,7 +425,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid gray;
+    border-bottom: 30px solid #3c3c3c !important;
 }
 
 
@@ -493,7 +493,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid gray;
+    border-bottom: 30px solid #3c3c3c !important;
 }
 
 .education .edu-col {
@@ -566,7 +566,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid gray;
+    border-bottom: 30px solid #3c3c3c !important;
 }
 
 .experience .exp-col {
@@ -653,7 +653,7 @@ a:focus {
     position: relative;
     padding: 60px 30px 30px 30px;
     background: #ffffff;
-    border-bottom: 30px solid gray;
+    border-bottom: 30px solid #3c3c3c !important;
 }
 
 .service .srv-col {
@@ -700,7 +700,7 @@ a:focus {
     position: relative;
     padding: 60px 30px 30px 30px;
     background: #ffffff;
-    border-bottom: 30px solid gray;
+    border-bottom: 30px solid #3c3c3c !important;
 }
 
 .portfolio #portfolio-flters {
@@ -716,7 +716,7 @@ a:focus {
     display: inline-block;
     height: 35px;
     padding: 10px;
-    color: #666666;
+    color: #3c3c3c !important;
     font-size: 13px;
     line-height: 15px;
     text-transform: uppercase;
@@ -847,7 +847,7 @@ a:focus {
 .review {
     position: relative;
     background: #ffffff;
-    border-bottom: 30px solid gray;
+    border-bottom: 30px solid #3c3c3c !important;
 }
 
 .review .content-inner {
@@ -1006,7 +1006,7 @@ a:focus {
 }
 
 .contact .contact-info p a {
-    color: #666666;
+    color: #3c3c3c !important;
 }
 
 .contact .contact-info p a:hover {
@@ -1074,7 +1074,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 30px 30px 0 30px;
-    background: gray;
+    background: #3c3c3c !important;
 }
 
 .footer .col-md-6:last-child {
